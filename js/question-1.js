@@ -1,18 +1,14 @@
 // Question 1
-// Convert the function below to an arrow function:
 
-// function getRemainder(a, b) {
+//alternative 1
+// const getRemainder = (a,b) => {
 //     return a % b;
 // }
 
-// const getRemainder = (a,b) => {
-//     return a % b;
-//     }
-
-//or
+//alternative 2
 
 const getRemainder = (a, b) => a % b;
 
-result = getRemainder(4, 3);
+const remainder = getRemainder(4, 3);
 
-console.log(result);
+console.log(remainder);
