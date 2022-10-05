@@ -1,9 +1,11 @@
 // Question 1
 
 //alternative 1
+
 // const getRemainder = (a,b) => {
 //     return a % b;
 // }
+
 
 //alternative 2
 

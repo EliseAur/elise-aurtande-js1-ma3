@@ -1,3 +1,5 @@
+// Reusable function for handling errors. 
+
 function displayError(message = "Unknown error") {
     return `<div class="results errorMes">
                 <div>
